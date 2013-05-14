@@ -11,3 +11,5 @@ JSF ,
 PrimeFaces ,
 Hibernate, 
 Apache Tomcat 7.0``
+
+``MyEclipse Blue``
