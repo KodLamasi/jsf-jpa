@@ -1,16 +1,18 @@
-jsf-hibernate
+jsf-jpa
 ====
 
-JSF – PrimeFaces & Hibernate Integration Project
+JSF – PrimeFaces & JPA Integration Project
 
 ##### Used Technologies :
 
-``MyEclipse Blue - IDE``
-``JDK``
-``Maven`` 
-``JSF`` 
+
+``NetBeans IDE 7.3``
+``Java EE 6 Web``
+``JDK 1.7``
+ ``JSF 2.1`` 
 ``PrimeFaces`` 
-``Hibernate``
-``Apache Tomcat 7.0``
+``JPA 2.0``
+``Glassfish server 3.1.2``
+``PostgreSQL``
 
 
