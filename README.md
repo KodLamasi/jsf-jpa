@@ -1,4 +1,4 @@
-jsf-jpa
+UniJPA
 ====
 
 JSF – PrimeFaces & JPA Integration Project
@@ -13,6 +13,6 @@ JSF – PrimeFaces & JPA Integration Project
 ``PrimeFaces`` 
 ``JPA 2.0``
 ``Glassfish server 3.1.2``
-``PostgreSQL``
+``Java Derby``
 
 
