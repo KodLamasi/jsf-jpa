@@ -1,5 +1,5 @@
-UniJPA
-====
+jsf-jpa
+========
 
 JSF – PrimeFaces & JPA Integration Project
 
